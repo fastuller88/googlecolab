@@ -1,0 +1,1 @@
+http://201.159.223.152/geoserver/ows?access_token=None?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ACompletoIndicad&outputFormat=SHAPE-ZIP&srs=EPSG%3A32717&format_options=charset%3AUTF-8
